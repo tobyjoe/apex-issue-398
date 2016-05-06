@@ -1,0 +1,30 @@
+{
+  "name": "test-398",
+  "version": "0.0.1",
+  "description": "A test project for Apex issue #398",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobyjoe/apex-issue-398"
+  },
+  "keywords": [
+    "node",
+    "lambda",
+    "api"
+  ],
+  "author": "Toby Joe Boudreaux",
+  "contributors": [
+    "Toby Joe Boudreaux <tj@tobyjoe.com> (http://tobyjoe.com)"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "har-validator": "^2.1.3"
+  }
+}

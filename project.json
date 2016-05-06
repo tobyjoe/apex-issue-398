@@ -1,0 +1,10 @@
+{
+  "name": "Examples",
+  "description": "Example project for Apex issues",
+  "role": "YO_ROLE_GOES_HERRRR",
+  "memory": 128,
+  "timeout": 30,
+  "hooks":{
+    "build":"npm install"
+  }
+}

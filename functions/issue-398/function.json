@@ -1,0 +1,6 @@
+{
+  "name": "issue-398",
+  "description": "Tests relative symlink during deployment",
+  "memory": 128,
+  "timeout": 30
+}
